@@ -33,7 +33,9 @@ Live demo here:
 ## Screenshots
 ###Game entry interface
 ![Game Start Screen](start_screen.png)
+### Game start interface
 ![Gameplay Screen](gameplay_screen.png)
+### Game victory interface
 ![Victory Screen]( victory_screen.png)
 ## Setup
 ## Usage
