@@ -32,7 +32,9 @@ Live demo here:
 - Scoring or step count statistics
 ## Screenshots
 ###Game entry interface
-![Game Start Screen]
+![Game Start Screen](start_screen.png)
+![Gameplay Screen](gameplay_screen.png)
+![Victory Screen](victory_screen.png)
 ## Setup
 ## Usage
 ## Project Status
