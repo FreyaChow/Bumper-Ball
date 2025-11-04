@@ -1,6 +1,9 @@
 # Bumper-Ball
 Bumper Ball is a single-player arcade-style game. The player's goal is to hit the ball into the hole within a limited number of steps while avoiding various obstacles.
-Live demo here: [BumperBall_Demo.mp4](./BumperBall_Demo.mp4)
+**Play the game:**  
+[Live Demo on MakeCode Arcade](https://makecode.com/_JPtUJTF91Ymb)
+**Gameplay Video:**  
+[Watch Here](https://your-video-link.com)
 
 ## Table of Contents
 - [General Information](#general-information)
